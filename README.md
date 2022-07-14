@@ -4,5 +4,8 @@
 - Laços de decisão;
 - Laços de repetição;
 - Vetores e matrizes;
-- [ POO
-- Herança]
+- [ POO-
+- Herança
+- Polimorfismo
+- Encapsulamento
+- Interface]
