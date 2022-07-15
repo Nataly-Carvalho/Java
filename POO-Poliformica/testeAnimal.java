@@ -11,7 +11,7 @@ public class testeAnimal {
 		Animal animal = null;
 		int op=0;
 		
-		System.out.println("Qual seu animal voceê gostaria de ter?");
+		System.out.println("Qual animal voce gostaria de ter?");
 		System.out.println("\n 1- Cachorro \n 2- Cavalo \n 3-Preguica");
 		op=scan.nextInt();
 		
