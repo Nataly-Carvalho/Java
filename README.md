@@ -2,7 +2,10 @@
 - Repositorio voltado para as atividades em Java da generation
 - Contendo as atividades :
 - Laços de decisão;
-- Laços de repetiçaõ;
+- Laços de repetição;
 - Vetores e matrizes;
-- [ POO
-- Herança]
+- [ POO-
+- Herança
+- Polimorfismo
+- Encapsulamento
+- Interface]
