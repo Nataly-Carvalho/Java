@@ -57,10 +57,12 @@ public class Atividade {
 				String verificar =scan.nextLine();
 				String novo = scan.nextLine();
 				System.out.println("\nQual item deseja substituir?\n"+verificar);
-				if (ListaEstoque.contains(verificar)) {
+				if (ListaEstoque.contains(verificar)) 
+				{
 					ListaEstoque.remove(verificar);
-					ListaEstoque.add(novo);
-				}
+					ListaEstoque.add(novo);	
+				}break;
+				
 			case 4:
 				scan.nextLine();
 				System.out.println("\nVoce escolheu a opcao mostar itens\n");
